@@ -1,4 +1,4 @@
-//exercicio06
+// exercicio06 
 public class Ex06{
 	public static void main(String[] args){
 		int x, y, aux;
